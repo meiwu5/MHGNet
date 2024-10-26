@@ -17,6 +17,6 @@ cd MHGNet
 python train.py
 ```
 ### WEIGHTS
-The saved trained weights: 
+The saved trained weights: https://pan.baidu.com/s/1Dc_GBtIPlpbqhxR1xqRPXw?pwd=xp5b 
 
 If you want to test, place the trained weights in the output folder, change the [start_up][mode] parameter in the configs to "resume," and then run python train.py.
